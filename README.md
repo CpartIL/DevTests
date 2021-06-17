@@ -8,7 +8,7 @@
 ## The assignment
 In this task you are require to provide a webpage constructed from the following projects: 
 
-    1. An Angular App containing 1 page (Homepage) 
+    1. An Angular App containing 2 page (Users list & Products list) 
     2. An MVC .net core API that will serve as an API for the angular App
 
 ### .NET Core API - Description
