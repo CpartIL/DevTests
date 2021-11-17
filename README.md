@@ -2,7 +2,7 @@
 
 ## GENERAL
 - The purpose of this assignment is to review your coding and Architecture abilities.
-- All code written will be zipped and send by Email to yaniv@cpart.co.il or will be shared in a shared GIT repository 
+- All code written will be zipped and send by Email to avi@cpart.co.il or will be shared in a shared GIT repository 
 - This repository contains a basic structure of the Apps for your convinience 
 
 ## The assignment
